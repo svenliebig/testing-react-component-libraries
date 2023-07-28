@@ -1,0 +1,34 @@
+{
+  "name": "testing-react-component-libraries",
+  "version": "1.0.0",
+  "description": "Testing different react component libraries",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/svenliebig/testing-react-component-libraries.git"
+  },
+  "author": "Sven Liebig <liebigsv@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/svenliebig/testing-react-component-libraries/issues"
+  },
+  "homepage": "https://github.com/svenliebig/testing-react-component-libraries#readme",
+  "workspaces": [
+    "packages/ant-design",
+    "server"
+  ],
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.0.3",
+    "eslint": "^8.45.0",
+    "eslint-plugin-react": "^7.33.0",
+    "eslint-plugin-react-hooks": "^4.6.0",
+    "eslint-plugin-react-refresh": "^0.4.3",
+    "vite": "^4.4.7"
+  }
+}
