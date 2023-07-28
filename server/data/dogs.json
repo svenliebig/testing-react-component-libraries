@@ -1,0 +1,164 @@
+[
+	{
+		"name": "Labrador Retriever",
+		"description": "Originally bred for fishing and retrieving nets in Newfoundland, Labs are now known for their friendly and outgoing nature.",
+		"image": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/YellowLabradorLooking_new.jpg/640px-YellowLabradorLooking_new.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "German Shepherd",
+		"description": "Developed in Germany, German Shepherds are highly intelligent and versatile working dogs, often used in police and military roles.",
+		"image": "https://example.com/germanshepherd.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Golden Retriever",
+		"description": "Bred in Scotland as gun dogs, Golden Retrievers are friendly, intelligent, and devoted companions.",
+		"image": "https://example.com/goldenretriever.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Poodle",
+		"description": "Poodles are known for their intelligence, elegance, and hypoallergenic coat. They were originally water retrievers in Germany.",
+		"image": "https://example.com/poodle.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Bulldog",
+		"description": "Originally used for bull-baiting, Bulldogs are now gentle, friendly, and great family pets.",
+		"image": "https://example.com/bulldog.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Beagle",
+		"description": "Beagles are scent hounds that were originally bred for hunting small game like rabbits. They are friendly and curious.",
+		"image": "https://example.com/beagle.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Rottweiler",
+		"description": "Rottweilers were originally herding dogs in Germany. They are confident, courageous, and protective of their families.",
+		"image": "https://example.com/rottweiler.jpg",
+		"friendly": 3
+	},
+	{
+		"name": "Siberian Husky",
+		"description": "Huskies were bred by the Chukchi people in Siberia for sledding and endurance. They are friendly, active, and energetic.",
+		"image": "https://example.com/husky.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "French Bulldog",
+		"description": "French Bulldogs are companion dogs that originated in France. They have a playful and affectionate personality.",
+		"image": "https://example.com/frenchbulldog.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Dachshund",
+		"description": "Dachshunds, or wiener dogs, were originally bred in Germany for hunting badgers. They are lively and courageous.",
+		"image": "https://example.com/dachshund.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Pembroke Welsh Corgi",
+		"description": "Corgis were herding dogs in Wales. They are intelligent, alert, and make excellent companions.",
+		"image": "https://example.com/corgi.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Doberman Pinscher",
+		"description": "Dobermans were developed in Germany for protection and guard duties. They are loyal, alert, and fearless.",
+		"image": "https://example.com/doberman.jpg",
+		"friendly": 3
+	},
+	{
+		"name": "Australian Shepherd",
+		"description": "Originally bred in the United States for herding, Australian Shepherds are intelligent and highly trainable.",
+		"image": "https://example.com/australianshepherd.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Shih Tzu",
+		"description": "Shih Tzus are small companion dogs that were bred in Tibet. They are affectionate and great for indoor living.",
+		"image": "https://example.com/shihtzu.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Pomeranian",
+		"description": "Pomeranians, or Poms, are small and lively dogs that were originally bred in Germany. They are friendly and extroverted.",
+		"image": "https://example.com/pomeranian.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Chihuahua",
+		"description": "Chihuahuas are the smallest breed, originating from Mexico. They are sassy, alert, and make great companions.",
+		"image": "https://example.com/chihuahua.jpg",
+		"friendly": 3
+	},
+	{
+		"name": "Shetland Sheepdog",
+		"description": "Shelties were bred in Scotland for herding sheep. They are intelligent, energetic, and great with families.",
+		"image": "https://example.com/shelties.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Yorkshire Terrier",
+		"description": "Yorkies are small dogs known for their luxurious coats. They make affectionate and lively companions.",
+		"image": "https://example.com/yorkie.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Boxer",
+		"description": "Boxers are medium-sized dogs that were originally bred for hunting and guarding. They are playful and energetic.",
+		"image": "https://example.com/boxer.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Dalmatian",
+		"description": "Dalmatians are known for their distinctive spots. They were historically used as carriage dogs and firehouse mascots.",
+		"image": "https://example.com/dalmatian.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Pug",
+		"description": "Pugs are small dogs with wrinkled faces. They are affectionate, charming, and make great companions.",
+		"image": "https://example.com/pug.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Siberian Husky",
+		"description": "Huskies were bred by the Chukchi people in Siberia for sledding and endurance. They are friendly, active, and energetic.",
+		"image": "https://example.com/husky.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Great Dane",
+		"description": "Great Danes are giant dogs that were originally bred for hunting. They are friendly, patient, and great with kids.",
+		"image": "https://example.com/greatdane.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Miniature Schnauzer",
+		"description": "Miniature Schnauzers are small dogs that were originally bred in Germany. They are alert, spirited, and make great companions.",
+		"image": "https://example.com/schnauzer.jpg",
+		"friendly": 4
+	},
+	{
+		"name": "Cavalier King Charles Spaniel",
+		"description": "Cavalier King Charles Spaniels are small companion dogs that were originally bred in the United Kingdom. They are affectionate and graceful.",
+		"image": "https://example.com/cavalierkingcharlesspaniel.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Maltese",
+		"description": "Maltese are small companion dogs that were originally bred in Italy. They are gentle, playful, and make great companions.",
+		"image": "https://example.com/maltese.jpg",
+		"friendly": 5
+	},
+	{
+		"name": "Boston Terrier",
+		"description": "Boston Terriers are small dogs that were originally bred in the United States. They are friendly, lively, and make great companions.",
+		"image": "https://example.com/bostonterrier.jpg",
+		"friendly": 5
+	}
+]
